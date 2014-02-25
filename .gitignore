@@ -1,4 +1,5 @@
 *.txt
 *.pyc
 *.db
+*.csv
 *~
